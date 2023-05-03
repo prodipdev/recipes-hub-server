@@ -1,0 +1,50 @@
+[
+  {
+    "chef_id": "CHEF001",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": "7k",
+    "picture": "https://i0.wp.com/totalfood.com/wordpress/wp-content/uploads/2019/10/Chef-Kashif-Browne-Ridgewells.jpg?fit=696%2C464&ssl=1"
+  },
+  {
+    "chef_id": "CHEF002",
+    "chef_name": "Maria Rodriguez",
+    "years_of_experience": 7,
+    "num_recipes": 40,
+    "likes": "10k",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BVbzwPhQ13rXihmeH28r5A2Bh8AFv_6mAw&usqp=CAU"
+  },
+  {
+    "chef_id": "CHEF003",
+    "chef_name": "David Lee",
+    "years_of_experience": 15,
+    "num_recipes": 80,
+    "likes": "13k",
+    "picture": "https://www.halperns.com/wp-content/uploads/2020/02/Chef-Ryli-scaled.jpg"
+  },
+  {
+    "chef_id": "CHEF004",
+    "chef_name": "Sara Johnson",
+    "years_of_experience": 5,
+    "num_recipes": 20,
+    "likes": "3k",
+    "picture": "https://cdn.vox-cdn.com/thumbor/95mlxOsihaIU-3Gu189GvoWrWOM=/0x0:1200x900/1200x800/filters:focal(0x0:1200x900)/cdn.vox-cdn.com/uploads/chorus_image/image/46799302/Edouardo_Jordan.0.0.jpg"
+  },
+  {
+    "chef_id": "CHEF005",
+    "chef_name": "Andrew Chen",
+    "years_of_experience": 12,
+    "num_recipes": 60,
+    "likes": "18k",
+    "picture": "https://www.tastetheimpact.org/uploads/1/0/7/9/107904461/published/chef-ashten-garrett.jpg?1618261190"
+  },
+  {
+    "chef_id": "CHEF006",
+    "chef_name": "Julia Kim",
+    "years_of_experience": 8,
+    "num_recipes": 30,
+    "likes": "21k",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0ApKOio6owSHq__xfO7WLLGAlPoxUKLgtyGemBwf13ETEOZqMlHiFP9IoCz-pLvU5gk&usqp=CAU"
+  }
+]
