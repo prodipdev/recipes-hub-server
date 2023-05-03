@@ -24,6 +24,13 @@ app.get("/recipe/:id", (req, res) => {
   res.send(selectedRecipe);
 });
 
+// send specific chef recipes
+app.get("/chef/:id", (req, res) => {
+  const chefId = req.params.id;
+  const selectedList = recipes.filter((recipe) => recipe.chef_id === chefId);
+  res.send(selectedList);
+});
+
 app.listen(port, () => {
   console.log(`server is running on port: ${port}`);
 });
