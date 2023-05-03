@@ -12,6 +12,11 @@ app.get("/chef", (req, res) => {
   res.send(chef);
 });
 
+// send all recipes
+app.get("/recipes", (req, res) => {
+  res.send(recipes);
+});
+
 app.listen(port, () => {
   console.log(`server is running on port: ${port}`);
 });
