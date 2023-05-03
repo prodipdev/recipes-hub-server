@@ -1,0 +1,309 @@
+[
+  {
+    "recipe_id": "IRL001",
+    "chef_id": "CHEF002",
+    "recipe_name": "Dublin Coddle",
+    "ingredients": [
+      "1 lb. pork sausages",
+      "8 oz. bacon, chopped",
+      "2 large onions, sliced",
+      "4 large potatoes, sliced",
+      "2 cups chicken broth",
+      "2 tbsp. chopped fresh parsley",
+      "Salt and pepper, to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 350°F.\n2. In a large skillet, cook the sausages and bacon over medium-high heat until browned.\n3. Remove the sausages and bacon from the skillet and set aside.\n4. In the same skillet, sauté the onions until softened.\n5. Layer the potatoes, sausages, bacon, and onions in a large casserole dish.\n6. Pour the chicken broth over the top.\n7. Cover the dish with foil and bake for 1 hour.\n8. Remove the foil and bake for an additional 30 minutes, or until the potatoes are tender and the top is browned.\n9. Garnish with chopped parsley and serve hot.",
+    "rating": 4.2,
+    "favorite": false,
+    "picture": "https://wholefully.com/wp-content/uploads/2020/02/dublin-coddle-irish-stew-bowl-720x540.jpg"
+  },
+  {
+    "recipe_id": "IRL002",
+    "chef_id": "CHEF004",
+    "recipe_name": "Boxty",
+    "ingredients": [
+      "1 lb. potatoes, peeled and grated",
+      "1 lb. potatoes, peeled and boiled",
+      "1 cup all-purpose flour",
+      "2 tbsp. butter, melted",
+      "1 cup milk",
+      "2 eggs, lightly beaten",
+      "Salt and pepper, to taste"
+    ],
+    "cooking_method": "1. In a large bowl, mix together the grated potatoes, boiled potatoes, flour, melted butter, and milk.\n2. Stir in the beaten eggs and season with salt and pepper.\n3. Heat a large skillet over medium heat and add a small amount of butter or oil.\n4. Spoon the potato mixture into the skillet, making small rounds about 4 inches in diameter.\n5. Cook until the edges are golden brown, about 3 minutes on each side.\n6. Repeat with the remaining potato mixture.\n7. Serve hot with butter or sour cream.",
+    "rating": 4.7,
+    "favorite": false,
+    "picture": "https://www.thespruceeats.com/thmb/QfQOQVMD-f_3Z2hvFKsERVt2mE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/boxty-irish-potato-cakes-recipe-1809575-hero-01-5c60b9b8c9e77c0001662224.jpg"
+  },
+  {
+    "recipe_id": "IRL003",
+    "chef_id": "CHEF003",
+    "recipe_name": "Irish Stew",
+    "ingredients": [
+      "2 lbs. lamb stew meat",
+      "1 lb. potatoes, diced",
+      "4 large carrots, sliced",
+      "2 onions, chopped",
+      "2 cloves garlic, minced",
+      "4 cups beef broth",
+      "2 tbsp. tomato paste",
+      "2 tbsp. fresh thyme leaves",
+      "Salt and pepper, to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 350°F.\n2. In a large Dutch oven, brown the lamb meat over medium-high heat.\n3. Remove the lamb meat from the pot and set aside.\n4. Add the potatoes, carrots, onions, and garlic to the pot and sauté until the vegetables are softened.\n5. Add the beef broth, tomato paste, and thyme leaves to the pot and stir to combine.\n6. Return the lamb meat to the pot and bring the mixture to a simmer.\n7. Cover the pot and bake in the oven for 2-3 hours, or until the meat is tender and the vegetables are cooked through.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "rating": 4.5,
+    "favorite": false,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Irish_Beef_Stew_%2834046928633%29.jpg/640px-Irish_Beef_Stew_%2834046928633%29.jpg"
+  },
+  {
+    "recipe_id": "IRL004",
+    "chef_id": "CHEF006",
+    "recipe_name": "Irish Soda Bread",
+    "ingredients": [
+      "4 cups all-purpose flour",
+      "1 tsp. baking soda",
+      "1 tsp. salt",
+      "1 3/4 cups buttermilk",
+      "1 egg, lightly beaten",
+      "2 tbsp. butter, melted"
+    ],
+    "cooking_method": "1. Preheat the oven to 425°F.\n2. In a large bowl, whisk together the flour, baking soda, and salt.\n3. In a separate bowl, mix together the buttermilk, egg, and melted butter.\n4. Add the wet ingredients to the dry ingredients and stir until just combined.\n5. Turn the dough out onto a floured surface and knead gently for 1-2 minutes.\n6. Shape the dough into a round and place it on a baking sheet lined with parchment paper.\n7. Cut a deep cross into the top of the dough.\n8. Bake for 30-35 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom.\n9. Cool on a wire rack before slicing and serving.",
+    "rating": 4.8,
+    "favorite": false,
+    "picture": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/24/0/BX0216H_Irish-Soda-Bread_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371603710170.jpeg"
+  },
+  {
+    "recipe_id": "IRL005",
+    "chef_id": "CHEF005",
+    "recipe_name": "Boxty",
+    "ingredients": [
+      "2 cups grated raw potato",
+      "2 cups mashed cooked potato",
+      "1 cup all-purpose flour",
+      "1 tsp. baking powder",
+      "1 tsp. salt",
+      "1/2 cup milk",
+      "2 tbsp. butter, melted",
+      "2 eggs, beaten"
+    ],
+    "cooking_method": "1. In a large bowl, mix together the grated raw potato and mashed cooked potato.\n2. In a separate bowl, whisk together the flour, baking powder, and salt.\n3. Add the dry ingredients to the potato mixture and stir to combine.\n4. Add the milk, melted butter, and beaten eggs to the bowl and mix well.\n5. Heat a large skillet over medium heat.\n6. Scoop about 1/4 cup of the batter into the skillet for each pancake.\n7. Cook for 2-3 minutes on each side, or until golden brown and cooked through.\n8. Serve hot with butter or sour cream, if desired.",
+    "rating": 4.2,
+    "favorite": false,
+    "picture": "https://www.thekitchenmagpie.com/wp-content/uploads/images/2021/03/irishboxty3.jpg"
+  },
+  {
+    "recipe_id": "IRL006",
+    "chef_id": "CHEF002",
+    "recipe_name": "Irish Coffee",
+    "ingredients": [
+      "1 cup hot coffee",
+      "1 oz. Irish whiskey",
+      "1 tbsp. brown sugar",
+      "1 tbsp. heavy cream"
+    ],
+    "cooking_method": "1. Fill a heatproof glass with hot water to preheat it.\n2. Pour out the hot water and add the brown sugar to the bottom of the glass.\n3. Add the Irish whiskey and coffee to the glass and stir until the sugar is dissolved.\n4. In a separate bowl, whip the heavy cream until it thickens slightly.\n5. Gently pour the whipped cream over the back of a spoon to layer it on top of the coffee.\n6. Serve immediately.",
+    "rating": 4.7,
+    "favorite": false,
+    "picture": "https://www.seriouseats.com/thmb/L82GwaPdwGgNNsxuwrJIog52yqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/irish_coffee_rum_buttercotch_cream_recipe_hero-MarielDeLaCruz-abedf3159f4b45fead155c5810767865.JPG"
+  },
+  {
+    "recipe_id": "IRL007",
+    "chef_id": "CHEF003",
+    "recipe_name": "Dublin Coddle",
+    "ingredients": [
+      "8 oz. bacon, chopped",
+      "8 oz. pork sausages",
+      "2 large onions, sliced",
+      "2 cloves garlic, minced",
+      "4 large potatoes, peeled and sliced",
+      "2 cups beef or chicken broth",
+      "2 tbsp. fresh parsley, chopped",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 350°F.\n2. In a large skillet, cook the bacon over medium heat until crisp. Remove with a slotted spoon and set aside.\n3. Add the sausages to the skillet and cook until browned on all sides. Remove and set aside.\n4. Add the sliced onions and minced garlic to the skillet and sauté until soft and fragrant.\n5. Layer the sliced potatoes, bacon, sausages, and onion mixture in a large oven-safe pot or Dutch oven.\n6. Pour the broth over the top and season with salt and pepper.\n7. Cover the pot and bake for 1 hour, or until the potatoes are tender and the flavors have melded together.\n8. Sprinkle with chopped parsley before serving.",
+    "rating": 4.5,
+    "favorite": false,
+    "picture": "https://classic-recipes.com/images/coddle-500.jpg"
+  },
+  {
+    "recipe_id": "IRL008",
+    "chef_id": "CHEF006",
+    "recipe_name": "Irish Stew",
+    "ingredients": [
+      "2 lbs. lamb stew meat",
+      "2 tbsp. all-purpose flour",
+      "2 tbsp. vegetable oil",
+      "2 large onions, chopped",
+      "4 cloves garlic, minced",
+      "4 large carrots, peeled and sliced",
+      "4 large potatoes, peeled and diced",
+      "4 cups beef broth",
+      "2 tbsp. fresh thyme, chopped",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. In a large bowl, toss the lamb stew meat with the flour to coat.\n2. Heat the vegetable oil in a large Dutch oven or stockpot over medium-high heat.\n3. Add the lamb and brown on all sides.\n4. Remove the lamb from the pot and set aside.\n5. Add the chopped onions and minced garlic to the pot and sauté until soft and fragrant.\n6. Add the sliced carrots and diced potatoes to the pot and stir to combine.\n7. Return the lamb to the pot and pour in the beef broth.\n8. Add the chopped thyme and season with salt and pepper.\n9. Bring the stew to a simmer, then reduce the heat to low and cover the pot.\n10. Simmer for 1-2 hours, or until the lamb is tender and the vegetables are cooked through.\n11. Serve hot with crusty bread.",
+    "rating": 4.8,
+    "favorite": false,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFYYg3q5l_i8nTsXHcIqr3AE6oI_lJwCkwA&usqp=CAU"
+  },
+  {
+    "recipe_id": "IRL009",
+    "chef_id": "CHEF002",
+    "recipe_name": "Boxty",
+    "ingredients": [
+      "2 large potatoes, peeled and grated",
+      "1 large onion, grated",
+      "1 cup all-purpose flour",
+      "1 tsp. baking powder",
+      "1 cup milk",
+      "1 egg",
+      "4 tbsp. butter",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. In a large mixing bowl, combine the grated potatoes, grated onion, all-purpose flour, and baking powder.\n2. In a separate bowl, whisk together the milk and egg.\n3. Pour the milk mixture into the potato mixture and stir to combine.\n4. Melt 2 tbsp. of butter in a large skillet over medium-high heat.\n5. Drop spoonfuls of the boxty batter into the skillet and cook until golden brown on both sides.\n6. Repeat with the remaining batter, adding more butter to the skillet as needed.\n7. Season the boxty with salt and pepper before serving.",
+    "rating": 4.2,
+    "favorite": false,
+    "picture": "https://bakeitwithlove.com/wp-content/uploads/2023/03/boxty-irish-pancakes-h.jpg"
+  },
+  {
+    "recipe_id": "IRL010",
+    "chef_id": "CHEF004",
+    "recipe_name": "Seafood Chowder",
+    "ingredients": [
+      "1 lb. mixed seafood (shrimp, scallops, clams, mussels, etc.)",
+      "2 tbsp. butter",
+      "2 large leeks, thinly sliced",
+      "2 cloves garlic, minced",
+      "4 large potatoes, peeled and diced",
+      "4 cups fish or chicken broth",
+      "1 cup heavy cream",
+      "2 tbsp. fresh thyme, chopped",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. In a large stockpot, melt the butter over medium-high heat.\n2. Add the sliced leeks and minced garlic and sauté until soft and fragrant.\n3. Add the diced potatoes to the pot and stir to combine.\n4. Pour in the fish or chicken broth and bring the mixture to a simmer.\n5. Reduce the heat to low and simmer for 10-15 minutes, or until the potatoes are tender.\n6. Add the mixed seafood to the pot and simmer for an additional 5-10 minutes, or until the seafood is cooked through.\n7. Stir in the heavy cream and chopped thyme and season with salt and pepper.\n8. Simmer for an additional 5-10 minutes to allow the flavors to meld together.\n9. Serve hot with crusty bread.",
+    "rating": 4.9,
+    "favorite": false,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaZy7RYFIe7ZHEI773akqKTI4bojkqaK28w&usqp=CAU"
+  },
+  {
+    "recipe_id": "IRL011",
+    "chef_id": "CHEF001",
+    "recipe_name": "Irish Soda Bread",
+    "ingredients": [
+      "4 cups all-purpose flour",
+      "1 tsp. baking soda",
+      "1 tsp. salt",
+      "1 3/4 cups buttermilk",
+      "1 egg",
+      "4 tbsp. butter, melted"
+    ],
+    "cooking_method": "1. Preheat the oven to 425°F.\n2. In a large mixing bowl, combine the all-purpose flour, baking soda, and salt.\n3. In a separate bowl, whisk together the buttermilk, egg, and melted butter.\n4. Pour the wet ingredients into the dry ingredients and stir to combine.\n5. Knead the dough for a few minutes until it comes out clean and forms a smooth ball.\n6. Place the dough onto a floured surface and shape it into a round loaf.\n7. Transfer the loaf to a greased baking sheet.\n8. Use a sharp knife to score a deep X into the top of the dough.\n9. Bake for 30-35 minutes, or until the bread is golden brown and sounds hollow when tapped.\n10. Let the bread cool on a wire rack before slicing and serving with butter and jam.",
+    "rating": 4.5,
+    "favorite": false,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7S0--vMbFBeOjt6mGj76keDHkYFKRrT0uw&usqp=CAU"
+  },
+  {
+    "recipe_id": "IRL012",
+    "chef_id": "CHEF006",
+    "recipe_name": "Irish Stew",
+    "ingredients": [
+      "2 lbs. lamb shoulder, cut into 1-inch pieces",
+      "1/4 cup all-purpose flour",
+      "2 tbsp. olive oil",
+      "2 large onions, chopped",
+      "4 large carrots, peeled and chopped",
+      "4 stalks celery, chopped",
+      "6 cups beef or chicken broth",
+      "2 cups potatoes, peeled and chopped",
+      "1 tbsp. fresh thyme, chopped",
+      "1 bay leaf",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 350°F.\n2. In a large mixing bowl, toss the lamb shoulder with the all-purpose flour until well-coated.\n3. In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.\n4. Add the lamb shoulder to the pot and cook until browned on all sides.\n5. Remove the lamb shoulder from the pot and set aside.\n6. Add the chopped onions, carrots, and celery to the pot and sauté until soft and fragrant.\n7. Return the lamb shoulder to the pot and pour in the beef or chicken broth.\n8. Add the chopped potatoes, fresh thyme, and bay leaf to the pot and stir to combine.\n9. Season the stew with salt and pepper to taste.\n10. Bring the stew to a simmer on the stove top.\n11. Cover the pot and transfer it to the preheated oven.\n12. Bake for 2-3 hours, or until the lamb shoulder is tender and the vegetables are cooked through.\n13. Serve hot with crusty bread.",
+    "rating": 4.6,
+    "favorite": false,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSW0LvUDB_-Ew1MP5SXf4OrO__UUwzcLRHAQ&usqp=CAU"
+  },
+  {
+    "recipe_id": "IRL013",
+    "chef_id": "CHEF003",
+    "recipe_name": "Bangers and Mash",
+    "ingredients": [
+      "6 sausages (pork, beef, or lamb)",
+      "4 large potatoes, peeled and chopped",
+      "1/2 cup milk",
+      "4 tbsp. butter",
+      "Salt and pepper to taste",
+      "Gravy (optional)"
+    ],
+    "cooking_method": "1. In a large pot, cover the chopped potatoes with cold water and bring to a boil over high heat.\n2. Reduce the heat to low and simmer for 15-20 minutes, or until the potatoes are tender.\n3. Drain the potatoes and return them to the pot.\n4. Add the milk and butter to the pot and mash the potatoes until smooth.\n5. Season the mashed potatoes with salt and pepper to taste.\n6. While the potatoes are cooking, heat a large skillet over medium-high heat.\n7. Add the sausages to the skillet and cook until browned on all sides and cooked through.\n8. Serve the sausages hot with the mashed potatoes and gravy, if desired.",
+    "rating": 4.3,
+    "favorite": false,
+    "picture": "https://food-images.files.bbci.co.uk/food/recipes/bangers_and_mash_with_80175_16x9.jpg"
+  },
+  {
+    "recipe_id": "IRL014",
+    "chef_id": "CHEF005",
+    "recipe_name": "Guinness Stew",
+    "ingredients": [
+      "2 lbs. beef chuck, cubed",
+      "2 tbsp. olive oil",
+      "2 tbsp. butter",
+      "2 large onions, chopped",
+      "3 cloves garlic, minced",
+      "3 tbsp. all-purpose flour",
+      "2 cups beef broth",
+      "1 1/2 cups Guinness beer",
+      "1 lb. potatoes, peeled and chopped",
+      "2 large carrots, peeled and chopped",
+      "2 tbsp. fresh thyme, chopped",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. In a large dutch oven or stockpot, heat the olive oil over medium-high heat.\n2. Add the cubed beef chuck to the pot and cook until browned on all sides.\n3. Remove the beef from the pot and set aside.\n4. Add the butter to the pot and melt it over medium heat.\n5. Add the chopped onions to the pot and sauté until softened.\n6. Add the minced garlic to the pot and sauté for an additional minute.\n7. Sprinkle the all-purpose flour over the onions and garlic and stir to combine.\n8. Slowly pour in the beef broth and Guinness beer, stirring constantly to prevent lumps from forming.\n9. Add the chopped potatoes, chopped carrots, and fresh thyme to the pot.\n10. Return the beef to the pot and stir to combine.\n11. Season the stew with salt and pepper to taste.\n12. Bring the stew to a simmer and then reduce the heat to low.\n13. Cover the pot and let the stew simmer for 2-3 hours, stirring occasionally, until the beef is tender and the vegetables are cooked through.\n14. Serve hot with crusty bread.",
+    "rating": 4.7,
+    "favorite": false,
+    "picture": "https://www.daringgourmet.com/wp-content/uploads/2017/02/Guinness-Stew-4-1024x683.jpg"
+  },
+  {
+    "recipe_id": "IRL015",
+    "chef_id": "CHEF006",
+    "recipe_name": "Irish Cabbage and Bacon",
+    "ingredients": [
+      "1 head of cabbage, chopped",
+      "1 lb. bacon, diced",
+      "2 large onions, chopped",
+      "4 cloves garlic, minced",
+      "2 cups chicken broth",
+      "2 tbsp. apple cider vinegar",
+      "2 tbsp. brown sugar",
+      "1 tsp. caraway seeds",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. In a large dutch oven or stockpot, cook the diced bacon over medium-high heat until crispy.\n2. Remove the bacon from the pot with a slotted spoon and set aside.\n3. Add the chopped onions to the pot and sauté in the bacon fat until softened.\n4. Add the minced garlic to the pot and sauté for an additional minute.\n5. Add the chopped cabbage to the pot and stir to combine.\n6. Pour the chicken broth over the cabbage and stir to combine.\n7. Add the apple cider vinegar, brown sugar, and caraway seeds to the pot and stir to combine.\n8. Season the cabbage with salt and pepper to taste.\n9. Bring the cabbage to a simmer and then reduce the heat to low.\n10. Cover the pot and let the cabbage simmer for 30-45 minutes, stirring occasionally, until the cabbage is tender.\n11. Serve hot with the crispy bacon on top.",
+    "rating": 4.6,
+    "favorite": false,
+    "picture": "https://assets.bonappetit.com/photos/57b2196df1c801a1038be009/master/w_484,h_344,c_limit/mare_irish_bacon_and_cabbage_h.jpg"
+  },
+  {
+    "recipe_id": "IRL016",
+    "chef_id": "CHEF003",
+    "recipe_name": "Guinness Beef Stew",
+    "ingredients": [
+      "2 lbs. beef chuck roast, cut into cubes",
+      "4 tbsp. butter",
+      "1 large onion, chopped",
+      "4 cloves garlic, minced",
+      "4 large carrots, peeled and chopped",
+      "4 large potatoes, peeled and chopped",
+      "2 cups beef broth",
+      "1 cup Guinness stout",
+      "2 tbsp. tomato paste",
+      "2 tbsp. fresh thyme, chopped",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 325°F.\n2. In a large Dutch oven, melt the butter over medium-high heat.\n3. Add the beef cubes to the pot and brown on all sides.\n4. Remove the beef from the pot and set it aside on a plate.\n5. Add the chopped onion and minced garlic to the pot and sauté until soft and fragrant.\n6. Add the chopped carrots and potatoes to the pot and stir to combine.\n7. Pour in the beef broth and Guinness stout.\n8. Add the tomato paste and chopped thyme to the pot and stir to combine.\n9. Season the stew with salt and pepper to taste.\n10. Cover the pot and transfer it to the preheated oven.\n11. Bake for 2-3 hours, or until the beef is tender.\n12. Serve hot with crusty bread.",
+    "rating": 4.8,
+    "favorite": false,
+    "picture": "https://i1.wp.com/whatagirleats.com/wp-content/uploads/2020/03/Guinness-stew.jpg"
+  }
+]
